@@ -45,13 +45,13 @@ Stories is a personal blog template mixes between modern, classic, and minimal s
 **1. Clone From Github**
 
 ```bash
-git clone https://github.com/kothing/CMS-laravel-stories.git
+git clone https://github.com/kothing/CMS-stories.git
 ```
 
 **2. Go to that folder**
 
 ```bash
-cd CMS-laravel-stories
+cd CMS-stories
 ```
 
 **3. Required Configuration**
