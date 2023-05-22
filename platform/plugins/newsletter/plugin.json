@@ -1,0 +1,10 @@
+{
+    "id": "botble/newsletter",
+    "name": "Newsletter",
+    "namespace": "Botble\\Newsletter\\",
+    "provider": "Botble\\Newsletter\\Providers\\NewsletterServiceProvider",
+    "author": "Botble Technologies",
+    "url": "https://botble.com",
+    "version": "2.0",
+    "description": "Newsletter"
+}
